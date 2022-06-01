@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4f34fe153bb41106c4bddeeff7b12f6" extends="sys_import_set_row" label="Import1" max_length="40" name="x_app1_ihub_import_9c63c3e153bb41106c4bddeeff7b1276" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field1" label="Field1" max_length="40" name="u_field1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field2" label="Field2" max_length="40" name="u_field2" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FDfcb30be1cbbb4110e23d28f9449795db</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>c61b6d1f536b01106c4bddeeff7b12b3</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FDfcb30be1cbbb4110e23d28f9449795db":{"u_field2":"String","u_field2.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field2\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_field1":"String","u_field1.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field1\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDfcb30be1cbbb4110e23d28f9449795db.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDfcb30be1cbbb4110e23d28f9449795db\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 11:44:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70b30be153bb41106c4bddeeff7b12dc</sys_id>
+        <sys_name>ih_import_FDfcb30be1cbbb4110e23d28f9449795db</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App1" source="x_app1">c61b6d1f536b01106c4bddeeff7b12b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">c61b6d1f536b01106c4bddeeff7b12b3</sys_scope>
+        <sys_update_name>sys_complex_object_70b30be153bb41106c4bddeeff7b12dc</sys_update_name>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

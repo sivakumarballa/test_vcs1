@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_concat_operation">
+    <sys_rte_eb_concat_operation action="INSERT_OR_UPDATE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <joining_string/>
+        <name>CONCAT_sn_ihub_target_short_description</name>
+        <operation_group/>
+        <order>9999</order>
+        <source_sys_rte_eb_field/>
+        <source_sys_rte_eb_fields>00e30fe153bb41106c4bddeeff7b12e5,0ce30fe153bb41106c4bddeeff7b12e6</source_sys_rte_eb_fields>
+        <sys_class_name>sys_rte_eb_concat_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 11:45:13</sys_created_on>
+        <sys_id>08e30fe153bb41106c4bddeeff7b12e8</sys_id>
+        <sys_name>CONCAT_sn_ihub_target_short_description</sys_name>
+        <sys_package display_value="App1" source="x_app1">c61b6d1f536b01106c4bddeeff7b12b3</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import1_etl_ihub">c5c30be153bb41106c4bddeeff7b12e8</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_incident">4ce30fe153bb41106c4bddeeff7b12e2</sys_rte_eb_entity>
+        <sys_scope display_value="App1">c61b6d1f536b01106c4bddeeff7b12b3</sys_scope>
+        <sys_update_name>sys_rte_eb_concat_operation_08e30fe153bb41106c4bddeeff7b12e8</sys_update_name>
+        <target_sys_rte_eb_field display_value="sn_ihub_target_short_description">00e30fe153bb41106c4bddeeff7b12e5</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Concatenation">4e38102a73b333002b6265a751ab9e1f</type>
+    </sys_rte_eb_concat_operation>
+</record_update>

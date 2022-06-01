@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c3bed1f536b01106c4bddeeff7b127b" label="Tab1" max_length="40" name="x_app1_tab1" type="collection">
+        <element label="aaa" max_length="32" name="aaa" reference="incident" type="reference"/>
+        <index name="index">
+            <element name="aaa"/>
+        </index>
+    </element>
+</database>

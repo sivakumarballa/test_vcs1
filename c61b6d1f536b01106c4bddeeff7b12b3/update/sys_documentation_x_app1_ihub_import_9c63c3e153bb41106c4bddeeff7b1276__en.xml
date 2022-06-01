@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Import1" language="en" table="x_app1_ihub_import_9c63c3e153bb41106c4bddeeff7b1276">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Import1</label>
+            <language>en</language>
+            <name>x_app1_ihub_import_9c63c3e153bb41106c4bddeeff7b1276</name>
+            <plural>Import1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-31 11:45:32</sys_created_on>
+            <sys_name>Import1</sys_name>
+            <sys_package display_value="App1" source="x_app1">c61b6d1f536b01106c4bddeeff7b12b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App1">c61b6d1f536b01106c4bddeeff7b12b3</sys_scope>
+            <sys_update_name>sys_documentation_x_app1_ihub_import_9c63c3e153bb41106c4bddeeff7b1276__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
